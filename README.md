@@ -8,4 +8,4 @@ stackable breakout board link - 8 channels
 
 *TI lauchpad breakout link board*
 > ![description](/images/lp-40.png)
-> [lauchpad 3D](/images/lp-40.pdf)
+> [lauchpad breakout link](/images/lp-40.jpg)
