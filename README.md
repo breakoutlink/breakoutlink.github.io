@@ -20,4 +20,9 @@
 >![Launchpad back](/images/lpBack.png)
 >![Launchpad stack](/images/lpStack.png)
 
+*NxP dip40 breakout*
+>![NxP dip40 frong](/images/xpFront.png)
+>![NxP dip40 back](/images/xpBack.png)
+>![NxP dip40 stack](/images/xpStack.png)
+
 *contact us info@breakout.link*
