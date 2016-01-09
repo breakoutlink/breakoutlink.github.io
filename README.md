@@ -13,6 +13,11 @@
 *Freescale breakout*
 >![Freescale frong](/images/fdmFront.png)
 >![Freescale back](/images/fdmBack.png)
->![Freescale back](/images/fdmStack.png)
+>![Freescale stack](/images/fdmStack.png)
+
+*Launchpad breakout*
+>![Launchpad frong](/images/lpFront.png)
+>![Launchpad back](/images/lpBack.png)
+>![Launchpad stack](/images/lpStack.png)
 
 *contact us info@breakout.link*
