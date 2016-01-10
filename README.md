@@ -16,6 +16,7 @@
 *Freescale breakout*
 
 *match for KE02Z KE04Z KE06ZKL02Z KL05Z KL25Z KL26Z KL27Z KL46Z*
+*match for arduino UNO board*
 >![Freescale frong](/images/fdmFront.png)
 >![Freescale back](/images/fdmBack.png)
 >![Freescale stack](/images/fdmStack.png)
