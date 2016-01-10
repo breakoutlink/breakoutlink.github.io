@@ -25,4 +25,29 @@
 >![NxP dip40 back](/images/xpBack.png)
 >![NxP dip40 stack](/images/xpStack.png)
 
+*st discovery 64 breakout*
+>![st discovery 64 frong](/images/dis64Front.png)
+>![st discovery 64 back](/images/dis64Back.png)
+>![st discovery 64 stack](/images/dis64Stack.png)
+
+*st discovery 100 breakout*
+>![st discovery 100 frong](/images/dis100Front.png)
+>![st discovery 100 back](/images/dis100Back.png)
+>![st discovery 100 stack](/images/dis100Stack.png)
+
+*st discovery 144 breakout*
+>![st discovery 144 frong](/images/dis144Front.png)
+>![st discovery 144 back](/images/dis144Back.png)
+>![st discovery 144 stack](/images/dis144Stack.png)
+
+*st nucleo 32 breakout*
+>![st nucleo 32 frong](/images/nu32Front.png)
+>![st nucleo 32 back](/images/nu32Back.png)
+>![st nucleo 32 stack](/images/nu32Stack.png)
+
+*st nucleo 64 breakout*
+>![st nucleo 64 frong](/images/nu64Front.png)
+>![st nucleo 64 back](/images/nu64Back.png)
+>![st nucleo 64 stack](/images/nu64Stack.png)
+
 *contact us info@breakout.link*
